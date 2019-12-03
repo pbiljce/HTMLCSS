@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+.zaglavlje{
+    background: lightgrey;
+}
+
+.dani{
+    background-color: lightseagreen;
+    font-weight: bold;
+    text-align: center;
+}
